@@ -54,7 +54,7 @@ button {
 }
 /* ----------------------header----------------------- */
 .title {
-    background-image: url(/img/clock.png);
+    background-image: url(../img/clock.png);
     background-repeat: no-repeat;
     background-position: center;
     vertical-align: middle;
@@ -93,7 +93,7 @@ button {
     left: -60px;
     height: 30px;
     width: 485px;
-    background-image: url(/img/quotes.png);
+    background-image: url(../img/quotes.png);
 }
 
 .section-input {
